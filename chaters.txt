@@ -198,7 +198,7 @@
  adawer:negative
  comette008:unsure
  AstroTF:negative
- humanswarm:negative
+ humanswarm:positive
  fleezyy:unsure
  GoatZtaoG:unsure
  Kissmysarcasm:unsure
@@ -371,7 +371,7 @@
  NPCNro71551:unsure
  ThatsJohnnyT:positive
  stephan708:negative
- recursivedong:negative
+ recursivedong:positive
  tgreg000:positive
  lovenecroz:unsure
  Pwrkaril:positive
@@ -393,7 +393,7 @@
  oo098:positive
  residentpugchamp:unsure
  Use_Tongue:unsure
- memyname2:negative
+ memyname2:positive
  derplove:positive
  velhote07:positive
  murderedos:negative
@@ -559,7 +559,7 @@
  Squegeez:unsure
  Haljegh:unsure
  Dextrick_:negative
- caloriccontent:negative
+ caloriccontent:positive
  Zerker:negative
  Scuffed_Raider:unsure
  HaydersBHayden:unsure
@@ -695,7 +695,7 @@
  JackmanMarcus:positive
  mikoxaflopin:unsure
  GoingMedieval:positive
- jauhen_liha:negative
+ jauhen_liha:positive
  rileytwitchtv:positive
  i_want_a_apple:positive
  rsgamer91:negative
@@ -921,7 +921,7 @@
  mungas1:unsure
  RSN_oo_o:positive
  TopazPratchett:positive
- twitchpayscollege:negative
+ twitchpayscollege:positive
  t0ny_rigatoni:positive
  drunkentotems689:unsure
  VenTheBoss:negative
@@ -1042,7 +1042,7 @@
  fingaz28:negative
  buy_wards:positive
  Llfe_:positive
- OyVaie:negative
+ OyVaie:positive
  LeoRamus:positive
  Whiteoutt82:negative
  cooked_chicken1:negative
@@ -1130,7 +1130,7 @@
  DrPaddd:positive
  ViewSlayer:unsure
  misterapplesauce:negative
- plankforpurp:negative
+ plankforpurp:positive
  Tarxzn:unsure
  naponees:positive
  Michaelallen95:positive
@@ -1406,7 +1406,7 @@
  therealshamoo:unsure
  hanyuu_sotsu:unsure
  Chindabella:unsure
- TheJeek1:negative
+ TheJeek1:positive
  Milesofstyles:positive
  hinderager:unsure
  caproo:unsure
@@ -1442,7 +1442,7 @@
  TravelTheSkies:unsure
  LordTimmm:unsure
  xmeowls:unsure
- Taybucky:negative
+ Taybucky:positive
  Zach_6464:unsure
  klannecs:unsure
  OGMudkip:unsure
@@ -1611,7 +1611,7 @@
  rsn_thomas:negative
  r3dpie:unsure
  melktoasted:unsure
- ZhenGarden:negative
+ ZhenGarden:positive
  rullakepap:positive
  black1195:negative
  Sluppo:unsure
@@ -1621,7 +1621,7 @@
  DougDimadomeDimsdaleDima:unsure
  skinnyb_:unsure
  PlayGamesForLyfe:positive
- fattyrocks4:negative
+ fattyrocks4:positive
  SnowAngel91:positive
  socalthc:negative
  Quantummm:positive
@@ -1640,7 +1640,7 @@
  nerd_lose:unsure
  otsukaresamasa:positive
  Erkkiks:positive
- sazjnk:negative
+ sazjnk:positive
  xAnthraXv:positive
  Topsu7:unsure
  gctbob:positive
@@ -1866,7 +1866,7 @@
  dinguscarrot:positive
  Panzerftw:positive
  seesaweffectt:positive
- Riy_Guy:negative
+ Riy_Guy:positive
  Jorrseph:unsure
  McQuadGod:unsure
  Comatose55:negative
@@ -1940,7 +1940,7 @@
  zisssle:positive
  notdanhan:positive
  donnellyc94:negative
- Braxzilla:negative
+ Braxzilla:positive
  GlJOE:unsure
  WeePsy_:unsure
  Jaquared:positive
@@ -2016,7 +2016,7 @@
  egg_samdwich:positive
  Triumvirus:positive
  BigWetWilly:unsure
- 420Lipe:negative
+ 420Lipe:positive
  BluePhatFlip:unsure
  unctrlable:unsure
  robnic04:positive
@@ -2240,7 +2240,7 @@
  yakethesquid:unsure
  toolbenchosrs:unsure
  Acrolance:positive
- blacksparky:negative
+ blacksparky:positive
  slayer__mastr:positive
  aydub13:positive
  waow_nice:positive
@@ -2474,7 +2474,7 @@
  tomflynn2522:unsure
  Mandrue:unsure
  vincejam:unsure
- ironpineappleman:negative
+ ironpineappleman:positive
  Armypat21:unsure
  ice22btw:positive
  B1argy:negative
@@ -2686,7 +2686,7 @@
  Xerasi:unsure
  Seriumosa:unsure
  Metni:unsure
- cmyk_osrs:negative
+ cmyk_osrs:positive
  epic_russia:positive
  Mind_ifi_roll_weed:negative
  Grim_Razor:unsure
