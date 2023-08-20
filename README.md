@@ -1,10 +1,11 @@
 # A quick and dirty analysis of the twitch users that chatted during the sailing portion of 'The Summer Summit' twitch stream
 
-![Estimation of Twitch User Sentiment During the Sailing Portion of 'The Summer Summit!'](https://github.com/kyruv/osrssailinganalysis/assets/109682849/87b5d949-835f-432c-a3c2-7c85013ca24c)
+![Estimation of Twitch User Sentiment During the Sailing Portion of 'The Summer Summit!'](https://github.com/kyruv/osrssailinganalysis/assets/109682849/875f5faf-3a47-4a99-92ba-da7175d9f225)
+
 
 # Summary
 
-Of the 2817 users that wrote in twitch chat during the time window, I classified 861 of them as "for sailing", 583 of them as "against sailing", and 1373 as "unsure/neutral/unrelated comments". The above chart ignores the users I was unsure about.
+Of the 2817 users that wrote in twitch chat during the time window, I classified 880 of them as "for sailing", 564 of them as "against sailing", and 1373 as "unsure/neutral/unrelated comments". The above chart ignores the users I was unsure about.
 
 # Details
 
