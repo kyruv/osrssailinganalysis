@@ -1,4 +1,4 @@
-# A quick and dirty analysis of the twitch users that chatted during The Summer Summit twitch stream
+# A quick and dirty analysis of the twitch users that chatted during the sailing portion of 'The Summer Summit' twitch stream
 
 ![Estimation of Twitch User Sentiment During the Sailing Portion of 'The Summer Summit!'](https://github.com/kyruv/osrssailinganalysis/assets/109682849/87b5d949-835f-432c-a3c2-7c85013ca24c)
 
