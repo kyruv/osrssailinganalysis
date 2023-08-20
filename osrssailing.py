@@ -27,9 +27,9 @@ def classify_sentiment(chat):
     if chat_is_one_word and "nah" in chat:
         return "negative"
     if chat_is_one_word and "voteyay" in chat:
-        return "negative"
+        return "positive"
     if chat_is_one_word and "yea" in chat:
-        return "negative"
+        return "positive"
     if len(chat) > 0 and all(c == 'w' for c in chat):
         return "positive"
     if len(chat) > 0 and all(c == 'l' for c in chat):
