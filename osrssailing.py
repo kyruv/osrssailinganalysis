@@ -1,3 +1,5 @@
+import os
+
 chaters = {}
 positive_chats = []
 negative_chats = []
@@ -85,8 +87,8 @@ def classify_sentiment(chat):
     return "unsure"
     
 
-
-with open('Documents\Code\[8-19-23] OldSchoolRS - August 19th - The Summer Summit! - Chat.txt', 'r', encoding='utf8') as chat_log:
+input_file_path = os.path.join("chatlogs", "[8-19-23] OldSchoolRS - August 19th - The Summer Summit! - Chat.txt")
+with open(input_file_path, 'r', encoding='utf8') as chat_log:
     # EXAMPLE CHAT... [2023-08-19 20:33:09 UTC] papayamusician: This is cool
     for chat in chat_log:
 
@@ -125,19 +127,19 @@ for user, sentiment in chaters.items():
     else:
         unsure+=1
 
-with open('positive_chats.txt', 'w', encoding='utf8') as f:
+with open(os.path.join("output", 'positive_chats.txt'), 'w', encoding='utf8') as f:
     for line in positive_chats:
         f.write(f"{line}\n")
 
-with open('negative_chats.txt', 'w', encoding='utf8') as f:
+with open(os.path.join("output",'negative_chats.txt'), 'w', encoding='utf8') as f:
     for line in negative_chats:
         f.write(f"{line}\n")
 
-with open('unsure_chats.txt', 'w', encoding='utf8') as f:
+with open(os.path.join("output",'unsure_chats.txt'), 'w', encoding='utf8') as f:
     for line in neutral_chats:
         f.write(f"{line}\n")
 
-with open('chaters.txt', 'w', encoding='utf8') as f:
+with open(os.path.join("output",'chaters.txt'), 'w', encoding='utf8') as f:
     for user, sentiment in chaters.items():
         f.write(f"{user}:{sentiment}\n")
 
